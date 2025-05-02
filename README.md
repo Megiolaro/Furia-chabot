@@ -93,7 +93,7 @@ A plataforma simula uma experiência de partida ao vivo com:
 
 Gian Carlos Megiolaro - giancarlosmegiolaro@gmail.com
 
-Project Link: [https://github.com/Megiolaro/furia-chat](https://github.com/Megiolaro/furia-chat)
+Project Link: [https://github.com/Megiolaro/Furia-chabot](https://github.com/Megiolaro/Furia-chabot)
 
 ## 🙏 Acknowledgments
 
